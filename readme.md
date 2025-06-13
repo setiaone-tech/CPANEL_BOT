@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-ff4b4b.svg?logo=streamlit)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed-black.svg?logo=vercel)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 CPANEL BOT adalah sebuah aplikasi web publik yang dibangun dengan Streamlit, dirancang untuk membantu siapa saja mengotomatiskan tugas-tugas repetitif yang berhubungan dengan manajemen cPanel, Cloudflare, dan Namecheap.
 
@@ -101,3 +102,9 @@ Ikuti langkah-langkah ini jika Anda ingin menjalankan salinan aplikasi ini sendi
 ## Disclaimer
 
 Aplikasi ini disediakan "sebagaimana adanya". Anda bertanggung jawab penuh atas kredensial yang Anda masukkan dan tindakan yang dilakukan oleh tool ini pada akun Anda. Kami mendorong Anda untuk meninjau kode sumber untuk memverifikasi keamanannya.
+
+---
+
+## 📜 Lisensi
+
+Proyek ini dilisensikan di bawah **Lisensi MIT**. Lihat file `LICENSE` untuk detail lebih lanjut.
