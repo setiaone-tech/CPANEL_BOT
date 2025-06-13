@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "startup.sh",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "startup.sh"
+    }
+  ]
+}
